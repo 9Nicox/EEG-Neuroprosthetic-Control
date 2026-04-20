@@ -175,6 +175,6 @@ eeg-neuroprosthetic-control/
 **Nicolas (9Nicox)**
 PhD in Neuroscience (TMS, motor cortex plasticity) | 4 years neurorehabilitation research (Parkinson's, Stroke) | Data Scientist
 
-This project is part of a portfolio targeting neurorehabilitation and brain-machine interface research positions in French-speaking Switzerland.
+This project is part of a portfolio targeting neurorehabilitation and brain-machine interface.
 
-📅 2025
+📅 2026
